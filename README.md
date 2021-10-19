@@ -1,4 +1,3 @@
-# tidelift-vue
 
 ## Project setup
 ```
